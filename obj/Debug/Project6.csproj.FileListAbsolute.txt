@@ -1,0 +1,7 @@
+C:\Users\rahulmondal\source\repos\Project6\Project6\obj\Debug\Project6.csprojAssemblyReference.cache
+C:\Users\rahulmondal\source\repos\Project6\Project6\obj\Debug\Project6.csproj.CoreCompileInputs.cache
+C:\Users\rahulmondal\source\repos\Project6\Project6\bin\Debug\Project6.exe.config
+C:\Users\rahulmondal\source\repos\Project6\Project6\bin\Debug\Project6.exe
+C:\Users\rahulmondal\source\repos\Project6\Project6\bin\Debug\Project6.pdb
+C:\Users\rahulmondal\source\repos\Project6\Project6\obj\Debug\Project6.exe
+C:\Users\rahulmondal\source\repos\Project6\Project6\obj\Debug\Project6.pdb
